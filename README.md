@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am currently working on some personal quantitative finance related projects
+I like to train deep neural networks.
 
 
 # 💻 Tech Stack:
